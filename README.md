@@ -36,7 +36,7 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Liquid-0B2545?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
