@@ -37,7 +37,7 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify%20Themes-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigCommerce-34313F?style=flat-square&logoColor=white" />
+  <img src="badges/bigcommerce.svg" alt="BigCommerce" />
   <img src="https://img.shields.io/badge/Drupal%20Commerce-0678BE?style=flat-square&logo=drupal&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -49,9 +49,9 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CICD%20Pipelines-2563EB?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="badges/cicd.svg" alt="CI/CD Pipelines" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auto%20Deploy-1E3A8A?style=flat-square&logo=git&logoColor=white" />
+  <img src="badges/autodeploy.svg" alt="Automated Deployment" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
