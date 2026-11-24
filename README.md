@@ -45,14 +45,45 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
 
 ### 🚀 Selected work
 
+#### 🧩 Platforms & custom plugins
+
 | Project | What we built | Stack |
 |---|---|---|
-| **[Thermocon Cold Chain](https://thermocon-coldchain.com)** | European industrial B2B site, 700+ pages in several languages, built 1:1 from the client's designs with custom functionality and technical SEO | WordPress · WPML · PHP |
+| **[Classic Liberals Australia](https://classicliberals.org.au)** | Full website plus a custom membership plugin: member and subscriber management, approval workflow, editable email templates, email log and an automatic newsletter on publish, with spam protection on every form | WordPress · Custom PHP plugin |
+| **[Rogers Morris](https://rogersmorris.com.au)** | Australian legal and advisory platform with ~25 modules, gated content and WooCommerce payments for module access | WordPress · WooCommerce |
+| **[Thermocon Cold Chain](https://thermocon-coldchain.com)** | European industrial B2B site, 700+ pages in several languages, built 1:1 from the client's designs with a custom plugin, configurator and technical SEO | WordPress · WPML · PHP |
+| **[H2K Infosys](https://h2kinfosys.com)** | IT training LMS with a custom live-classes feature | WordPress · Vue.js |
+| **[French et Voilà](https://frenchetvoila.com/fall-program-2026/)** | Program pages and a custom course enrollment plugin: a multi-step wizard that ends in payment | WordPress · Custom plugin |
+| **Wind of Change** | Restaurant website plus a custom CRM and loyalty management system | WordPress · Laravel |
+| **MyTutors** | Home and online tutor marketplace with location-based search | Full-stack web app |
+
+#### ⚡ Next.js / React
+
+| Project | What we built | Stack |
+|---|---|---|
 | **[Motus AI Engine](https://motusaiengine-alpha.vercel.app)** | AI company website with 27+ routes | Next.js · React · Tailwind · TypeScript |
 | **[Orenyx](https://orenyx-influencer.vercel.app)** | AI platform front end | Next.js · React |
+
+#### 🏢 Business & professional websites
+
+| Project | What we built | Stack |
+|---|---|---|
+| **[Prachi Shah Law](https://prachishahlaw.com)** | NYC/NJ immigration law firm: design, development and SEO; the EB-5 page ranks on Google's first page | WordPress · Elementor · SEO |
+| **[Iseline Gandaho](https://iselinegandaho.com)** | Premium editorial personal brand, built 1:1 from the client's Figma | WordPress · Elementor |
 | **[First Edit Asia](https://firsteditasia.com)** · **[First Edit Africa](https://firsteditafrica.com)** | Two bilingual EN/FR advisory sites on one shared build | WordPress |
 | **[Alpana Art Agency](https://alpanaartagency.com)** | 60+ page site with ACF, migrated from GoDaddy to Hostinger | WordPress · ACF |
-| **MyTutors** | Home and online tutor marketplace with location-based search | Full-stack web app |
+| **[ALAS Construct](https://alasconstruct.au)** | Australian playground and surfacing contractor: quote form with service options and a careers plugin | WordPress · PHP |
+| **[Ayarma Financial Service](https://ayarmafinancialservice.com)** | Financial services website | WordPress |
+| **[Plumb Renovations](https://plumbrenovations.com.au)** | Home renovation website with a quote form | WordPress |
+| **[Sylvasun](https://carport-sylvasun.fr)** · **[L.A. Solaire](https://la-solaire-71.fr)** | French solar carport brand and photovoltaic installer, premium lead-gen sites | WordPress · Elementor |
+| **[ZEMS Behavior](https://zemsbehavior.com)** | ABA therapy provider website | WordPress |
+
+#### 🛒 E-commerce
+
+| Project | What we built | Stack |
+|---|---|---|
+| **[Legends Creek Farm](https://legendscreekfarm.com)** | Goat milk soap store with a custom build-your-own-bundle page in Liquid sections | Shopify · Liquid |
+| **[Happy Hookie](https://happyhookie.com)** | Lifestyle and accessories store on a custom theme | Shopify |
 
 ---
 
