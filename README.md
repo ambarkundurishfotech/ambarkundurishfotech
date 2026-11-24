@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,50:13315c,100:1f6feb&height=180&section=header&text=Ambar%20Kundu&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Team%20Lead%20%C2%B7%20Full-Stack%20Web%20Developer%20%C2%B7%20Rishfotech%20Solutions&descAlignY=58&descSize=16" width="100%" />
 
-<a href="https://rishfotech.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=620&lines=7%2B+years+building+for+the+web;WordPress+%C2%B7+Shopify+%C2%B7+Laravel+%C2%B7+CodeIgniter;Next.js+%C2%B7+Vue.js+%C2%B7+Node.js;BigCommerce+%C2%B7+Wix+%C2%B7+Webflow;Design+to+live+site%2C+deployed+right" alt="Typing intro" /></a>
+<a href="https://rishfotech.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=620&lines=7%2B+years+building+for+the+web;WordPress+%C2%B7+Shopify+%C2%B7+Laravel+%C2%B7+CodeIgniter;Next.js+%C2%B7+Vue.js+%C2%B7+Node.js;BigCommerce+%C2%B7+Drupal+Commerce+%C2%B7+Wix+%C2%B7+Webflow;CI%2FCD+pipelines+and+deployments;Design+to+live+site%2C+deployed+right" alt="Typing intro" /></a>
 
 <p>
   <a href="https://rishfotech.com"><img src="https://img.shields.io/badge/Rishfotech-Solutions-0B2545?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
@@ -21,7 +21,7 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
 - 🧱 Custom WordPress themes and plugins, with no page-builder bloat when it's not needed
 - ⚙️ Laravel, CodeIgniter and Node.js back ends, admin panels and APIs
 - ⚡ Next.js, React and Vue.js front ends
-- 🛒 Custom Shopify theme development, plus WooCommerce and BigCommerce stores
+- 🛒 Custom Shopify theme development, plus WooCommerce, BigCommerce and Drupal Commerce stores
 - 🎨 Wix and Webflow website builds
 - 🔁 CI/CD pipelines with GitHub Actions: automated build, test and deploy from Git to staging and live
 - 🚀 Deployments, server setup, host and DNS migrations, SSL, redirects and SEO-safe launches
@@ -38,6 +38,7 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
   <img src="https://img.shields.io/badge/Shopify%20Themes-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
   <img src="https://img.shields.io/badge/BigCommerce-121118?style=flat-square&logo=bigcommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drupal%20Commerce-0678BE?style=flat-square&logo=drupal&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -105,7 +106,7 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
 
 ### 🤝 Work with me
 
-I'm open to WordPress, Shopify, Laravel, CodeIgniter, Next.js, Vue.js, BigCommerce, Wix and Webflow projects: new builds, CI/CD and deployments, migrations and ongoing support.
+I'm open to WordPress, Shopify, Laravel, CodeIgniter, Next.js, Vue.js, BigCommerce, Drupal Commerce, Wix and Webflow projects: new builds, CI/CD and deployments, migrations and ongoing support.
 
 <p>
   <a href="https://rishfotech.com"><img src="https://img.shields.io/badge/Visit-rishfotech.com-1F6FEB?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
