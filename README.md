@@ -5,9 +5,9 @@
 <a href="https://rishfotech.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=620&lines=7%2B+years+building+for+the+web;WordPress+%C2%B7+Laravel+%C2%B7+Next.js+%C2%B7+Shopify;Design+to+live+site%2C+deployed+right" alt="Typing intro" /></a>
 
 <p>
-  <a href="https://rishfotech.com"><img src="https://img.shields.io/badge/Rishfotech-Solutions-0b2545?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-Kolkata%2C%20India-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-13315c?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://rishfotech.com"><img src="https://img.shields.io/badge/Rishfotech-Solutions-0B2545?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Kolkata%2C%20India-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-13315C?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 </div>
@@ -36,8 +36,8 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Liquid-0b2545?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-1f6feb?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Liquid-0B2545?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
@@ -56,25 +56,12 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ambarkundurishfotech&show_icons=true&hide_border=true&bg_color=0b2545&title_color=ffffff&text_color=dbe6f7&icon_color=1f6feb&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambarkundurishfotech&layout=compact&hide_border=true&bg_color=0b2545&title_color=ffffff&text_color=dbe6f7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambarkundurishfotech&bg_color=0b2545&color=dbe6f7&line=1f6feb&point=ffffff&area=true&hide_border=true" width="95%" />
-</p>
-
----
-
 ### 🤝 Work with me
 
 I'm open to WordPress, Laravel, Next.js and Shopify projects: new builds, deployments, migrations and ongoing support.
 
 <p>
-  <a href="https://rishfotech.com"><img src="https://img.shields.io/badge/Visit-rishfotech.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://rishfotech.com"><img src="https://img.shields.io/badge/Visit-rishfotech.com-1F6FEB?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:13315c,100:0b2545&height=110&section=footer" width="100%" />
