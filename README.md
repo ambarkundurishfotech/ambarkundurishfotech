@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b2545,50:13315c,100:1f6feb&height=180&section=header&text=Ambar%20Kundu&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Team%20Lead%20%C2%B7%20Full-Stack%20Web%20Developer%20%C2%B7%20Rishfotech%20Solutions&descAlignY=58&descSize=16" width="100%" />
 
-<a href="https://rishfotech.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=620&lines=7%2B+years+building+for+the+web;WordPress+%C2%B7+Laravel+%C2%B7+Next.js+%C2%B7+Shopify;Design+to+live+site%2C+deployed+right" alt="Typing intro" /></a>
+<a href="https://rishfotech.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=620&lines=7%2B+years+building+for+the+web;WordPress+%C2%B7+Shopify+%C2%B7+Laravel+%C2%B7+CodeIgniter;Next.js+%C2%B7+Vue.js+%C2%B7+Node.js;BigCommerce+%C2%B7+Wix+%C2%B7+Webflow;Design+to+live+site%2C+deployed+right" alt="Typing intro" /></a>
 
 <p>
   <a href="https://rishfotech.com"><img src="https://img.shields.io/badge/Rishfotech-Solutions-0B2545?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
@@ -19,25 +19,41 @@
 I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web development agency working with clients in the US, Europe and Australia. I take websites from design or pre-built code to a live, fast, secure site, and I keep them running after launch.
 
 - 🧱 Custom WordPress themes and plugins, with no page-builder bloat when it's not needed
-- ⚙️ Laravel back ends, admin panels and APIs
-- ⚡ Next.js / React front ends in TypeScript
-- 🛒 Shopify and WooCommerce stores
-- 🚀 Deployments, host and DNS migrations, redirects and SEO-safe launches
+- ⚙️ Laravel, CodeIgniter and Node.js back ends, admin panels and APIs
+- ⚡ Next.js, React and Vue.js front ends
+- 🛒 Custom Shopify theme development, plus WooCommerce and BigCommerce stores
+- 🎨 Wix and Webflow website builds
+- 🔁 CI/CD pipelines with GitHub Actions: automated build, test and deploy from Git to staging and live
+- 🚀 Deployments, server setup, host and DNS migrations, SSL, redirects and SEO-safe launches
 
 ---
 
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,wordpress,nextjs,react,tailwind,mysql,nodejs,git,github,vercel,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,wordpress,nextjs,react,vue,nodejs,tailwind,mysql,git,github,githubactions,vercel,linux,nginx,cloudflare&perline=10" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify%20Themes-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigCommerce-121118?style=flat-square&logo=bigcommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wix-0C6EFC?style=flat-square&logo=wix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automated%20Deployment-0B2545?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
@@ -89,7 +105,7 @@ I'm a team lead at **[Rishfotech Solutions](https://rishfotech.com)**, a web dev
 
 ### 🤝 Work with me
 
-I'm open to WordPress, Laravel, Next.js and Shopify projects: new builds, deployments, migrations and ongoing support.
+I'm open to WordPress, Shopify, Laravel, CodeIgniter, Next.js, Vue.js, BigCommerce, Wix and Webflow projects: new builds, CI/CD and deployments, migrations and ongoing support.
 
 <p>
   <a href="https://rishfotech.com"><img src="https://img.shields.io/badge/Visit-rishfotech.com-1F6FEB?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
